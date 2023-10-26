@@ -1,0 +1,9 @@
+.container-header{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    background-color: blue;
+    padding: 10px;
+    transition: width 2s;
+}
