@@ -5,7 +5,7 @@ const About = () => {
     return (
         <>
             <Header></Header>
-            <h1>Bienvenido al about</h1> 
+            <h1>Bienvenido al about de la api</h1> 
         </>
     );
 }
